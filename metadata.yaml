@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '42247'
     url: http://www.gutenberg.org/2009/agents/42247
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43483#Cruise-of-the-Alert-Four-Years-in-Patagonian-Polynesian-and-Mascarene-Waters--1878-82-
 gutenberg_issued: '2013-08-16'
 gutenberg_type: Text
 identifiers:
