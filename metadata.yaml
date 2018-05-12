@@ -1,0 +1,33 @@
+_repo: Cruise-of-the-Alert-Four-Years-in-Patagonian-Polynesian-and-Mascarene-Waters--1878-82-_43483
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coppinger, R. W. (Richard William)
+    alias: Coppinger, Richard William
+    gutenberg_agent_id: '42247'
+    url: http://www.gutenberg.org/2009/agents/42247
+description: ''
+gutenberg_issued: '2013-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43483'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Natural history -- Polynesia'
+- !lcsh 'Natural history -- Patagonia (Argentina and Chile)'
+- !lcsh 'Patagonia (Argentina and Chile) -- Description and travel'
+- !lcsh 'Mascarene Islands -- Description and travel'
+- !lcsh 'Natural history -- Mascarene Islands'
+- !lcsh 'Alert (Sloop : 1856-1895)'
+- !lcsh 'Polynesia -- Description and travel'
+title: 'Cruise of the ''Alert''
+
+  Four Years in Patagonian, Polynesian, and Mascarene Waters (1878-82)'
+url: http://www.gutenberg.org/ebooks/43483
